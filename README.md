@@ -1,6 +1,6 @@
-# MeganMorse
+# MeganMorse : A Morse Code Translator
 
-#### Video Demo:  <URL HERE>
+#### Video Demo: https://youtu.be/EI9P0Ujv4EQ
 
 #### Description:
 
