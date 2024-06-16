@@ -1,4 +1,6 @@
 # MeganMorse : A Morse Code Translator
+![image](https://github.com/Sy-edUzair/MeganMorse-A-Morse-Code-Translator/assets/115092632/ae30c240-6575-49af-9771-7a2af32d58a7)
+
 
 #### Video Demo: https://youtu.be/EI9P0Ujv4EQ
 
